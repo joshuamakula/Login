@@ -22,3 +22,16 @@ body{
 .form-control{
     background-color: transparent !important;
 }
+
+a{
+    color: #fff !important;
+    float: right;
+    margin-top: -200px;
+}
+
+h1{
+    color: #fff;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
