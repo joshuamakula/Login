@@ -17,7 +17,7 @@
                     <form action="validation.php" method="post">
                         <div class="form-group">
                             <label>Username</label>
-                            <input type="text" name="name" class="form-control" required>
+                            <input type="text" name="user" class="form-control" required>
                         </div>
                         <div class="form-group">
                             <label>Password</label>
@@ -31,7 +31,7 @@
                     <form action="registration.php" method="post">
                         <div class="form-group">
                             <label>Username</label>
-                            <input type="text" name="name" class="form-control" required>
+                            <input type="text" name="user" class="form-control" required>
                         </div>
                         <div class="form-group">
                             <label>Password</label>
